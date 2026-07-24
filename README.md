@@ -2,6 +2,8 @@
 
 **A data plane for AI agents: classified, access-controlled, audited data over GraphQL + REST.**
 
+![bulletproof-agentic-data-plane — overview](docs/media/infographic.png)
+
 `bulletproof-agentic-data-plane` is a TypeScript service that gives agents a governed
 way to read and write data. It exposes GraphQL and REST APIs behind authentication,
 rate limiting, and query timing, classifies data by sensitivity, and records lineage
@@ -33,6 +35,14 @@ npm install
 npm test          # jest
 npm run typecheck
 ```
+
+## Documentation & media
+
+- **Docs:** [Overview](docs/OVERVIEW.md) · [Install](docs/INSTALL.md) ·
+  [How to use](docs/HOW-TO-USE.md) · [Administrator guide](docs/ADMINISTRATOR.md) ·
+  [SBOM](docs/SBOM.md) · [Security scan report](docs/scan/scan-report.md)
+- **Media** (system overview [deck](media/), [video](media/), and
+  [briefing](media/system-overview.md)) — generated with NotebookLM.
 
 ## License
 
