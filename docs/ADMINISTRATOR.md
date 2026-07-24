@@ -96,14 +96,14 @@ See [`scan/scan-report.md`](scan/scan-report.md) for the latest Code Hardener re
   audit bus, and drain the PG pool.
 - **Logging:** structured logs via `src/shared/logger.ts`.
 
-## Known limitation
+## Scope
 
-`src/index.ts` / `src/api/server.ts` wire in `reconciliation`, `economics`, and
-`compliance` engines/routes whose module files are **absent** from this repository, so a
-full `npm run build` / `npm start` / Docker `api` build does not complete as shipped.
-Operators should either supply those modules or remove the wiring before deploying. The
-present engines (lineage, classification, quality, observability, reports, events)
-type-check and are unit-tested.
+This repository ships six engines: lineage, classification, quality, observability,
+reports, and events. `src/index.ts` / `src/api/server.ts` wire in exactly these, and a
+full `npm run build` / `npm start` / Docker `api` build compiles and runs as shipped. The
+event-type catalogue in `src/events/types.ts` additionally defines `reconciliation`,
+`economics` (cost), and `compliance` event categories, but the corresponding engines and
+REST routes are not part of this repository.
 
 ---
 

@@ -16,10 +16,6 @@ import { createQualityRoutes } from './rest/qualityRoutes.js';
 import { createClassificationRoutes } from './rest/classificationRoutes.js';
 import { createPipelineRoutes } from './rest/pipelineRoutes.js';
 import { createReportRoutes } from './rest/reportRoutes.js';
-import { createReconciliationRoutes } from './rest/reconciliationRoutes.js';
-import { createEconomicsRoutes } from './rest/economicsRoutes.js';
-import { createEconomicsExtrasRoutes } from './rest/economicsExtrasRoutes.js';
-import { createComplianceRoutes } from './rest/complianceRoutes.js';
 
 import type { LineageEngine } from '../lineage/LineageEngine.js';
 import type { EventPublisher } from '../events/EventPublisher.js';
@@ -27,11 +23,6 @@ import type { QualityValidator } from '../quality/QualityValidator.js';
 import type { QualityTrendTracker } from '../quality/QualityTrendTracker.js';
 import type { ClassificationEngine } from '../classification/ClassificationEngine.js';
 import type { PipelineObserver } from '../observability/PipelineObserver.js';
-import type { ReconciliationEngine } from '../reconciliation/ReconciliationEngine.js';
-import type { EconomicsEngine } from '../economics/EconomicsEngine.js';
-import type { BudgetHierarchy } from '../economics/budgetHierarchy.js';
-import type { SemanticCache } from '../economics/SemanticCache.js';
-import type { ComplianceEngine } from '../compliance/ComplianceEngine.js';
 import depthLimit from 'graphql-depth-limit';
 import { AppError } from '../shared/errors.js';
 import { createLogger } from '../shared/logger.js';
@@ -46,11 +37,6 @@ export interface ServerDependencies {
   trendTracker: QualityTrendTracker;
   classificationEngine: ClassificationEngine;
   pipelineObserver: PipelineObserver;
-  reconciliationEngine: ReconciliationEngine;
-  economicsEngine: EconomicsEngine;
-  budgetHierarchy: BudgetHierarchy;
-  semanticCache: SemanticCache;
-  complianceEngine: ComplianceEngine;
   jwtSecret: string;
   jwtIssuer: string;
   graphqlDepthLimit: number;
@@ -85,10 +71,6 @@ export async function createServer(deps: ServerDependencies): Promise<{ app: exp
   app.use('/api/v1', createClassificationRoutes(deps.classificationEngine));
   app.use('/api/v1', createPipelineRoutes(deps.pipelineObserver));
   app.use('/api/v1', createReportRoutes(deps.pool));
-  app.use('/api/v1', createReconciliationRoutes(deps.reconciliationEngine));
-  app.use('/api/v1', createEconomicsRoutes(deps.economicsEngine));
-  app.use('/api/v1', createEconomicsExtrasRoutes(deps.economicsEngine, deps.budgetHierarchy, deps.semanticCache));
-  app.use('/api/v1', createComplianceRoutes(deps.complianceEngine));
 
   // GraphQL with Apollo Server
   const resolvers = createResolvers();

@@ -92,13 +92,10 @@ docker build --target api -t agentic-data-plane-api .
 docker build --target dashboard -t agentic-data-plane-dashboard .
 ```
 
-> **Build note:** at the time of this release, `src/index.ts` and `src/api/server.ts`
-> import a small set of engine/route modules (`reconciliation`, `economics`, `compliance`)
-> that are not present in this repository, so `npm run build`, `npm start`, and the Docker
-> `api` stage do not currently compile end-to-end. The individual engines that *are*
-> present (lineage, classification, quality, observability, reports, events) type-check and
-> are unit-tested. See [`scan/scan-report.md`](scan/scan-report.md) for the security
-> posture of the shipped code.
+> **Scope note:** this repository ships six engines — lineage, classification, quality,
+> observability, reports, and events. `npm run build`, `npm start`, and the Docker `api`
+> stage compile and run against those. See [`scan/scan-report.md`](scan/scan-report.md)
+> for the security posture of the shipped code.
 
 ---
 

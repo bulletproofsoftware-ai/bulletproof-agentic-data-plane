@@ -9,11 +9,6 @@ import { QualityValidator } from './quality/QualityValidator.js';
 import { QualityTrendTracker } from './quality/QualityTrendTracker.js';
 import { ClassificationEngine } from './classification/ClassificationEngine.js';
 import { PipelineObserver } from './observability/PipelineObserver.js';
-import { ReconciliationEngine } from './reconciliation/ReconciliationEngine.js';
-import { EconomicsEngine } from './economics/EconomicsEngine.js';
-import { BudgetHierarchy } from './economics/budgetHierarchy.js';
-import { SemanticCache } from './economics/SemanticCache.js';
-import { ComplianceEngine } from './compliance/ComplianceEngine.js';
 import { createServer } from './api/server.js';
 
 const logger = createLogger('main');
@@ -60,19 +55,6 @@ async function main(): Promise<void> {
     config.pipeline.nullRateSpikeThreshold
   );
 
-  // Initialize reconciliation engine
-  const reconciliationEngine = new ReconciliationEngine(pool, publisher);
-
-  // Initialize economics engine
-  const economicsEngine = new EconomicsEngine(pool, publisher);
-
-  // Initialize budget hierarchy and semantic cache (Enhancement Suite)
-  const budgetHierarchy = new BudgetHierarchy(pool, publisher);
-  const semanticCache = new SemanticCache(pool);
-
-  // Initialize compliance engine (PRD-18)
-  const complianceEngine = new ComplianceEngine(pool, publisher);
-
   // Create and start API server
   const { app, apollo } = await createServer({
     pool,
@@ -82,11 +64,6 @@ async function main(): Promise<void> {
     trendTracker,
     classificationEngine,
     pipelineObserver,
-    reconciliationEngine,
-    economicsEngine,
-    budgetHierarchy,
-    semanticCache,
-    complianceEngine,
     jwtSecret: config.jwt.secret,
     jwtIssuer: config.jwt.issuer,
     graphqlDepthLimit: config.graphql.depthLimit,

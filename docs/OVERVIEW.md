@@ -66,8 +66,9 @@ a **React/D3 lineage dashboard**.
 This document describes only what exists in the source tree. The event-type catalogue in
 `src/events/types.ts` also defines `reconciliation`, `economics` (cost), and `compliance`
 event categories, but the corresponding engine modules and their REST routes are **not
-present in this repository**, so those endpoints are not documented. See
-[`scan/scan-report.md`](scan/scan-report.md) and the repository README for current status.
+part of this repository** and are not wired into the server, so those endpoints do not
+exist here. See [`scan/scan-report.md`](scan/scan-report.md) and the repository README for
+current status.
 
 ---
 
