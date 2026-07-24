@@ -26,7 +26,7 @@
     "uuid": "^11.1.1"
   },
   "dependencies": {
-    "@apollo/server": "^4.11.0",
+    "@apollo/server": "^5.5.0",
     "better-sqlite3": "^11.7.0",
     "cors": "^2.8.5",
     "d3": "^7.9.0",
