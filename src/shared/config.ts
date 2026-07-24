@@ -53,7 +53,7 @@ export function loadConfig() {
     },
     auditBus: {
       dbPath: resolveAuditBusPath(
-        optionalEnv('AUDIT_BUS_DB_PATH', '~/.claude/plugins/local/governance/state/audit.db')
+        optionalEnv('AUDIT_BUS_DB_PATH', './data/audit.db')
       ),
       serviceKey: requiredEnv('AUDIT_BUS_SERVICE_KEY'),
     },

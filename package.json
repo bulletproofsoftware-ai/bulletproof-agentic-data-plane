@@ -7,14 +7,12 @@
     "node": ">=20.0.0"
   },
   "scripts": {
-    "build": "tsc",
+    "build": "tsc && mkdir -p dist/db/migrations && cp src/db/migrations/*.sql dist/db/migrations/",
     "dev": "tsx watch src/index.ts",
     "start": "node dist/index.js",
     "migrate": "tsx src/db/migrate.ts",
     "test": "node --experimental-vm-modules node_modules/.bin/jest --forceExit",
     "test:unit": "node --experimental-vm-modules node_modules/.bin/jest tests/unit --forceExit",
-    "test:integration": "node --experimental-vm-modules node_modules/.bin/jest tests/integration --forceExit",
-    "test:perf": "node --experimental-vm-modules node_modules/.bin/jest tests/performance --forceExit --testTimeout=60000",
     "lint": "eslint src/ tests/",
     "typecheck": "tsc --noEmit",
     "dashboard:dev": "cd src/dashboard && npx vite --port 8100",

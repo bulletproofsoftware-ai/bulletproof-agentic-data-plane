@@ -34,7 +34,7 @@ Common optional variables (defaults shown):
 
 | Variable | Default | Purpose |
 |----------|---------|---------|
-| `AUDIT_BUS_DB_PATH` | `~/.claude/plugins/local/governance/state/audit.db` | SQLite audit-bus file. |
+| `AUDIT_BUS_DB_PATH` | `./data/audit.db` | SQLite audit-bus file. |
 | `JWT_ISSUER` | `agentic-data-plane` | Expected JWT `iss` claim. |
 | `API_PORT` | `8099` | API server port. |
 | `DASHBOARD_PORT` | `8100` | Dashboard port. |
