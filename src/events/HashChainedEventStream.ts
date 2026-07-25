@@ -89,8 +89,25 @@ export class HashChainedEventStream {
       throw new Error('HashChainedEventStream must be initialized before use');
     }
 
-    const payloadJson = JSON.stringify(params.payload);
-    const contentHash = this.signer.sha256(payloadJson);
+    const eventId = uuidv4();
+    const timestamp = new Date().toISOString();
+
+    // Hash the whole envelope, not just the payload.
+    //
+    // content_hash previously covered params.payload alone, so event_type,
+    // timestamp, pipeline_id and event_id could all be altered in the stored
+    // row without breaking either the hash or the HMAC — the chain attested
+    // to the payload while leaving the metadata that gives it meaning
+    // unprotected. Keys are emitted in a fixed order so the digest is
+    // reproducible.
+    const canonical = JSON.stringify({
+      event_id: eventId,
+      event_type: params.eventType,
+      pipeline_id: params.pipelineId,
+      timestamp,
+      payload: params.payload,
+    });
+    const contentHash = this.signer.sha256(canonical);
     const previousHash = this.previousHash;
     const hmacSignature = this.signer.signEvent(contentHash, previousHash);
 
@@ -98,9 +115,9 @@ export class HashChainedEventStream {
     this.previousHash = contentHash;
 
     return {
-      event_id: uuidv4(),
+      event_id: eventId,
       event_type: params.eventType,
-      timestamp: new Date().toISOString(),
+      timestamp,
       content_hash: contentHash,
       previous_hash: previousHash,
       hmac_signature: hmacSignature,
