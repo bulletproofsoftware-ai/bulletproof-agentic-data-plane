@@ -2,7 +2,9 @@ import express from 'express';
 import cors from 'cors';
 import helmet from 'helmet';
 import { ApolloServer } from '@apollo/server';
-import { expressMiddleware } from '@apollo/server/express4';
+// Apollo Server 5 no longer bundles the Express integration; it moved to a
+// standalone package. This app runs Express 4, so it uses the express4 build.
+import { expressMiddleware } from '@as-integrations/express4';
 import type pg from 'pg';
 
 import { typeDefs } from './graphql/schema.js';
