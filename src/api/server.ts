@@ -48,9 +48,19 @@ export interface ServerDependencies {
 export async function createServer(deps: ServerDependencies): Promise<{ app: express.Express; apollo: ApolloServer<ResolverContext> }> {
   const app = express();
 
-  // Security middleware
+  // Security middleware. `contentSecurityPolicy: false` switched the header off
+  // entirely; this server returns JSON and GraphQL, never HTML, so the policy
+  // should permit nothing rather than be absent.
   app.use(helmet({
-    contentSecurityPolicy: false, // API server, not serving HTML
+    contentSecurityPolicy: {
+      useDefaults: false,
+      directives: {
+        'default-src': ["'none'"],
+        'frame-ancestors': ["'none'"],
+        'base-uri': ["'none'"],
+        'form-action': ["'none'"],
+      },
+    },
   }));
   app.use(cors({
     origin: process.env.CORS_ORIGIN || 'http://localhost:8100',
@@ -59,13 +69,18 @@ export async function createServer(deps: ServerDependencies): Promise<{ app: exp
   app.use(express.json({ limit: '1mb' }));
   app.use(queryTimer);
 
+  // Rate limiting, applied before every route rather than only on /api. The
+  // health routes and /graphql both sat outside the old /api-scoped limiter, so
+  // an unauthenticated caller could hammer the health check's pool query, and an
+  // authenticated one could hammer GraphQL, without ever being throttled.
+  app.use(createRateLimiter());
+
   // Health routes (unauthenticated)
   app.use(createHealthRoutes(deps.pool));
 
   // Auth middleware for all /api routes
   const auth = createAuthMiddleware(deps.jwtSecret, deps.jwtIssuer);
   app.use('/api', auth);
-  app.use('/api', createRateLimiter());
 
   // REST routes
   app.use('/api/v1', createLineageRoutes(deps.lineageEngine, deps.publisher));
