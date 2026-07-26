@@ -1,4 +1,4 @@
-FROM node:20-slim AS build
+FROM node:20-slim@sha256:2cf067cfed83d5ea958367df9f966191a942351a2df77d6f0193e162b5febfc0 AS build
 WORKDIR /app
 RUN apt-get update && apt-get install -y --no-install-recommends curl && rm -rf /var/lib/apt/lists/*
 COPY package.json package-lock.json ./
@@ -8,7 +8,7 @@ COPY src/ ./src/
 RUN npx tsc
 USER node
 
-FROM node:20-slim AS api
+FROM node:20-slim@sha256:2cf067cfed83d5ea958367df9f966191a942351a2df77d6f0193e162b5febfc0 AS api
 WORKDIR /app
 RUN apt-get update && apt-get install -y --no-install-recommends curl && rm -rf /var/lib/apt/lists/*
 COPY package.json package-lock.json ./
@@ -20,7 +20,7 @@ EXPOSE 8099
 USER node
 CMD ["node", "dist/index.js"]
 
-FROM node:20-slim AS dashboard-build
+FROM node:20-slim@sha256:2cf067cfed83d5ea958367df9f966191a942351a2df77d6f0193e162b5febfc0 AS dashboard-build
 WORKDIR /app
 COPY src/dashboard/package.json ./
 RUN npm install
@@ -30,7 +30,7 @@ ENV VITE_DEFAULT_TOKEN=$VITE_DEFAULT_TOKEN
 RUN npm run build
 USER node
 
-FROM nginx:alpine AS dashboard
+FROM nginx:alpine@sha256:4a73073bd557c65b759505da037898b61f1be6cbcc3c2c3aeac22d2a470c1752 AS dashboard
 COPY --from=dashboard-build /app/dist /usr/share/nginx/html
 RUN printf 'server { listen 8100; root /usr/share/nginx/html; index index.html; \
 location /api { proxy_pass http://host.docker.internal:8099; proxy_set_header Host $host; } \
