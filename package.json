@@ -25,7 +25,9 @@
     "test-exclude": "^8.0.0",
     "glob": "^11.1.0",
     "brace-expansion": "^5.0.8",
-    "esbuild": "^0.28.1"
+    "esbuild": "^0.28.1",
+    "@apollo/protobufjs": "1.2.8",
+    "@protobufjs/codegen": "2.0.5"
   },
   "dependencies": {
     "@apollo/server": "^5.5.1",
