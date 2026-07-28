@@ -70,6 +70,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "175effbc2a7b415c289bd786ed3a1ab8829d031a52a1a76c267a887f2af22c54a42d2384aaef9e0b967737c397714552b6e38c70d1e5cab691b00eab4480aee2"
+        }
       ]
     },
     {
@@ -94,6 +100,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "afbc4d794a995fe7810449b2bda3f0d3f712cface07f98dd1fc9a3533f329caa4db3f194eef8b64fbb0d71920d9366480fbc308c6f7514281da42ad0b89f2bcc"
         }
       ]
     },
@@ -120,6 +132,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "dc710c0fa7d26a7b46d8ccb78d691bf5dbdf905f6f2780432d18cc82c9c3efdd1520db6e3da129fa1dc783d1ce1e25a430be90b0e867691a99fa0be1a77cbc37"
+        }
       ]
     },
     {
@@ -144,6 +162,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "467de0e53250b0c494636dc25994e08567415b28d7edd3f579a1013e4be63364478bcd9c0dca604c891209b1afb535041a3c28a4bbf5000a2853f9fb888676d0"
         }
       ]
     },
@@ -170,6 +194,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "bb8d1d21478f1da48a56c85c79d3bb5a9fa63e266c694eb18eff49f95cb1a6853fccbe8995efbdcd6786f7cb6bffe499d2767839786b6dbf1236bd2b00fa480c"
+        }
       ]
     },
     {
@@ -194,6 +224,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "08aae5c928f879061fb41139309f08ccac0889b4277ed0d3ef219fb09cb92921049cb94f0125f4513a5b2aa9239551303cf778984c08ed638ced737112e3b4e4"
         }
       ]
     },
@@ -220,6 +256,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "12c3c806ab12b760700ecbfc5aeefa2cae51d4ab6c5643683b86f433968ad21c7e74683dc495eeaa5afb168df80e5fb2f378e6ce7f94bc45beb75fc63f699e94"
+        }
       ]
     },
     {
@@ -244,6 +286,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "677400cabb1092fadd4ee1c017058335dfb4979d20bb0a1052868342cb0b3a39269e656ebd7949ca4aa5109a258a8fb8ac5c019d676863507215d29a404726ec"
         }
       ]
     },
@@ -270,6 +318,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "c6b8f28df933ba76740de17ac641da2b920a47c175141abaa95fae67e87dc28ac817fd984b3034ba80711afead6d37a8f50a08427456e0f545cc68b1e44ee7fe"
+        }
       ]
     },
     {
@@ -294,6 +348,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "98ac359b2454910b063cd07ef5b82502e86f8a8749d8bd8c4582d369f08cc39048a3b9dbbc23cd0a42e72078d9d4d3b31fb4a7300af973d2e65e2aac818a8b67"
         }
       ]
     },
@@ -320,6 +380,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "33c57c24e4c7d05daa122fa4b4f7f0e112fb32f5327037caa7b6846a9d9e5977cbe52a961cdea34cb6e3e5fe5f8f571c787a7269448e665be569aaf26b16409a"
+        }
       ]
     },
     {
@@ -344,6 +410,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "f4ce0b51757f7d0061f2f65694bbdbfc7cb286327beff23964abbe341595fc19981b2466a043fd115032ecb095a18dedf010dcc820067f125a2c5092b9090f52"
         }
       ]
     },
@@ -370,6 +442,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "d23a117361c13b8bb9f783a9d677affa6505eb2467c68507eb8c70f31ddb5fb9fc4010d875e620638b45d2f251793cbecdd9f6c6fe9f32caae0134a00bbdb614"
+        }
       ]
     },
     {
@@ -394,6 +472,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "79c8886afb16a49d3dcdad699f7ef0a6c086ad03575213344e4b676661f03be672f4ee1fbbf59d078fb906f561162658397bdf8f325471cfa1b0857c4543ad33"
         }
       ]
     },
@@ -420,6 +504,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "409b3b1edcd74bf2483cc2968a616750c2bb563906413cea0fd6ca0f58778ae3c0a8bb317749943556e460e3d3b038542a072f50e7cea8e25662884028cbdc48"
+        }
       ]
     },
     {
@@ -444,6 +534,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "2cf4a506b9fe4b5ee8072e5e5a4ad14866fdf2c5a69c4ce8dc33d3660a7c21073cb097b4a6b0e00eea691aae0d790969a2a107cf48507981c0380d19dda42cc5"
         }
       ]
     },
@@ -470,6 +566,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "69ac5e6af7c9f911dba21edcda87cee471ed4286c65f802052e8d73f8097a51107a7d7d0f633e2e8af53d63ac029eec7222a683f4389d6077a25a992905229bc"
+        }
       ]
     },
     {
@@ -494,6 +596,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "3c678c730a0e29d6276782edb2633b68b3687a5ded6caf302a77f26a17516aed6a6fbc0b6ee697077e73837c37e0ebf86e6dd626d3b7cb377c070e63544f9a21"
         }
       ]
     },
@@ -520,6 +628,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "0d22cb033b4e21021ded01379bc121939955fb4a63c4d4924431cfce5610f44e0a27d02850c069ac2e02f9e5f7bf8b2b874e52dae8e6e7fbdea80af9c8458549"
+        }
       ]
     },
     {
@@ -544,6 +658,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "29c924dbfbe6fab10b27b8a3bc56809fda2e5925544c3d03e12248bd8178aca7ae40701f0b313f8f3305a27655a535e57aa2633d72d98d56ee68ca2bc3b0393a"
         }
       ]
     },
@@ -570,6 +690,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "0e8d80fede9acaa3a66bc9bb3efa5832c081b302fe341df90504a7838196481a9a7cbdbf0677c0672fcd48434fc15ef6d519b67c6d011c44c50b4f852496662f"
+        }
       ]
     },
     {
@@ -594,6 +720,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "981f6802c3429bd68cdff48ebf862d04ca996d88f5d11edd92af1bc81ab1198fe7705c217f6a10ccc57e2c24655a80d210127708e891d72783bccb6ca0eb2e15"
         }
       ]
     },
@@ -620,6 +752,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "8fe80a13112e2e62b0bf3dce811397b6b276506db1f028766195316a187eb351761d9fb001c79434b92fcbacca08f551914fbe65642b771b147905e6720e2ea1"
+        }
       ]
     },
     {
@@ -644,6 +782,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "01991c000e6f9cdfefe0f0ea2b2311e65c7b859b6d3c380296ff3713ffc530d851d9331c2d485f4540470a64a5d288bdccc8030ea4542644b13b7c26f39f972e"
         }
       ]
     },
@@ -670,6 +814,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "ce05c52f35b7029df77ba7745a58f8306226e827bc3bcf67fdaa54686341fe3c7e870fabb96129ec4c0652c85d2ca5510b1656d767e9f6be34135990adfff7e2"
+        }
       ]
     },
     {
@@ -694,6 +844,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "8fd79d9d14fcd6f609f4e7d5b971ba1114937442f5c55b0d82aa64c4cb1b21a6f34a8de0a028c322f79e1afe5dd37a26dfd30bef545d9ab18d8c6e5245e04ffd"
         }
       ]
     },
@@ -720,6 +876,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "9658d55e9a9779ba6c8a35bbd4f65a098788704e689f5c390e5432e561fa18b6c5af22d4ac10f8f77d96fc4d814a97d1256b1e20be2ffca3e0045c4338874aa5"
+        }
       ]
     },
     {
@@ -744,6 +906,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "0dd6fe9155e55ecb7d77e47d3df4c8c61d4474d920a117b9b4e5fab74d5fd656163af26748f0c1946db8d502f37323dda0d4ec6e52d476e8c6484e11ceb4d919"
         }
       ]
     },
@@ -770,6 +938,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "91d49e7dc3ddaee26214c5526e7f34d6de2f14aeca07fe607767d8bebc61b89620f082eb9a7f522925f6b59755e95fa4b2e956a92eda5e305c457977c07a03f5"
+        }
       ]
     },
     {
@@ -794,6 +968,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "e8939c2794e6d3c74e1c06dd4771abbcffb25147e48c6e5e3ec1d87333052eadd998c9000fdf1c0e0713da2035949f4d57015de2d1ff8924a87b8e185a496d10"
         }
       ]
     },
@@ -820,6 +1000,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "d2410b6864880c12af7204b8ce48f3d4f79d75ab6b8d87263163a502e00fc0079c714acf1dd52aa3f27a2e2ca61c7122253e4dac5d54570c58d787fe7f2e1643"
+        }
       ]
     },
     {
@@ -844,6 +1030,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "6f5510c1c119e320a73020fc0c02f55656ef04913dfc85f8153229ec11b5c58a5fdbd48b6b32d2aea5248f8c3b639cbb70254fe84e6d72aa9c234c5e98f907ba"
         }
       ]
     },
@@ -870,6 +1062,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "b5bec8bbea19fb35896771c9ab0c7ca0dc120c8538e3486654c0cf8690025905a7ad91caf7d071b3bd204f52f6767af91e0e74651584164402027395555d33d5"
+        }
       ]
     },
     {
@@ -894,6 +1092,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "32a4c6128e5b8f9b75e7b53a7c0fc1883ca73649f46249d5761e3c08c3e44d2a454d59af6a8e544269bbb8417ac41128eea20c02563f25295e61a13a54e76968"
         }
       ]
     },
@@ -920,6 +1124,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "36cb7925d2b8ed5225f54706c2dbf645c8329f9956b59d3f9a1450e06f0d3768acc69ab64cedf48aa1f39b0a09c9c8d6bb251f8371855ea3ff8051d7795e7b20"
+        }
       ]
     },
     {
@@ -943,6 +1153,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "3d802d8536b69b654ac6ebd20f70cf0bf1b2f94fac380d4b02e4fc9a4991bafc3e34009269e5c443e34771517bace365eaa71ac55dd4b9e9b06b093eefe4892f"
         }
       ]
     },
@@ -968,6 +1184,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "2c713ef01b91ed16060cabe7ae672e4aaded0dc2aff4e1445d0b7f1e96d9858ed5ea1d339545eeb67003f361a2171f6b76278232392fb5cb0fa81c20525d488b"
+        }
       ]
     },
     {
@@ -991,6 +1213,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "3c254042cc167a6bba51dc6c0c5157ffe815798a8a0287770f75159bdd631f0ca782e3b002f60f871f2736533ef8da9170ae82c71a5469f8e684874a88789baa"
         }
       ]
     },
@@ -1016,6 +1244,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "dc26337b1f4cf451908c218c1b28baff7d5cf0625b81bd2a1b2af1e475b13ddd1a0b0878701d988cc6f65dff54ba8a20accae53bd713aa7079ac8e461d94dc50"
+        }
       ]
     },
     {
@@ -1039,6 +1273,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "c1faff8ecb70f71362ff4b5e307ad15bb76ccf72ede4046160d6767b0a5a76785a229e666c02e13803fe10076c0bbb7867ac2ab0356ff7e5ba826d4393d984cb"
         }
       ]
     },
@@ -1064,6 +1304,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "c2f52306d48637bfbb4a3369abff4cd93837e745190f7abad881592db4404756d23250a8d5969e5be049f83d3dd1ee2120864b05c4c359ee0c8788ef5036a3cd"
+        }
       ]
     },
     {
@@ -1087,6 +1333,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "dd7480d9c47f87fef71339575dd53a60dc9c99823bfa489c4f192ce1e260da0dfd6e21d1f38b25836f9d7acfa9ee21d885b460fee7484b84c3e7759a6dc39493"
         }
       ]
     },
@@ -1112,6 +1364,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "00aa5a6251e7f2de1255b3870b2f9be7e28a82f478bebb03f2f6efadb890269b3b7ca0d3923903af2ea38b4ad42630b49336cd78f2f0cf1abc8b2a68e35a9e58"
+        }
       ]
     },
     {
@@ -1135,6 +1393,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "2d8a66397764a5061fe309a5c647735b4d571a53973486e32e0e39c8d921d05438f35e156caf4f74e166859a586de8fe119b51fe2dc50dd8441bdf07a997609c"
         }
       ]
     },
@@ -1160,6 +1424,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "a79b40cd2e7b8b9315f5f6450e3f4b788893644b9f6d27b6783a333fe12585e494ab59bbe0246ad63238998343755b3dbd0ced5c52ee93f19de81593770449e6"
+        }
       ]
     },
     {
@@ -1183,6 +1453,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "d9c1a626ea5a36083e414c152c0b9c0ee5aea0c67a117f621c346cc19e65b0d6049b03da4649cc3c22d9cf4ef24f356affcde9e28ff0cdb0d96c1ad3bc619323"
         }
       ]
     },
@@ -1208,6 +1484,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "a132a325d4a1983b865bde12cb26a842f0237f7d1d65a1e78c9f2e005faedbfbc626425b24f2404f580388e24fe6fd596fa7fd284c96ff51e9b9a5885ed1873e"
+        }
       ]
     },
     {
@@ -1231,6 +1513,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "cd1a54883c1dff193a003a8f3004c6f2f73d54fae4724ed3d3b388c748278e62409c79d35573501b7bdfbd636e899224c2ef4aaca740d6224a7ec7d357113a34"
         }
       ]
     },
@@ -1256,6 +1544,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "fcd7fb4f2cd3c7a4b7c9124e6ce015efde7aafc72bdbe3a3f000b976df3048fdc1400a1e5f9f0da07c8253c3fccc690d5d2b634d28ba7f33ba174a4175c61b12"
+        }
       ]
     },
     {
@@ -1279,6 +1573,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "4a9d5a6e52748af0e44b38dc68977112e9cde7f5ef92c149dac30115fabac74af285057fd9bfcac057b6d5c329987b4f3928a3f0af7dff049fa04b9339b9ae31"
         }
       ]
     },
@@ -1304,6 +1604,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "a0a95214c70cc29520d9e767921438e78c1f5a253fba5dc29097bf3c41dc4caba25fa4696de854885317bb5dc76a5199c5f530090cd91bbe3b617067d629bdc3"
+        }
       ]
     },
     {
@@ -1327,6 +1633,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "fb2b3df7b53dea9a382b1fc0069042aa103d12ec49690583420ef6f791f8841a61bf72198346e804abb0629b78617a7a319e4099942753fb72313951a5a49e8e"
         }
       ]
     },
@@ -1352,6 +1664,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "dcf7bf085d4d9fde21ca1218a63b622e1742a04a33d03a90fbdf3c13d826784750665a23c6739bef8c1cb45caec16407ceac9ff57ec2ecc1bc8ee529a81253f3"
+        }
       ]
     },
     {
@@ -1375,6 +1693,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "42b59707e6504953e6216221b443bd1fe8301da3066221790a1be827e2bd6461c6fec56c6baca27ac003d460bfc78eac113d345e5c28d6ee3d455555cef71293"
         }
       ]
     },
@@ -1400,6 +1724,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "16f7994cdb86c34e1cc6502259bce2eb34c02ff9617a16966d3b6096e261e3f13de43a8cc139a16b7299375680580f1c148847ccc654bcb7af930e51aa4fad49"
+        }
       ]
     },
     {
@@ -1423,6 +1753,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "9d38ea7dc045122a4a7570afe180d05827e670b64a9bcd65745d29028a53bf2ac51956dc47a3ff54001de46ecdfb4b53afc42a894d2d15a743e852b836d27038"
         }
       ]
     },
@@ -1448,6 +1784,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "8ff3bf77b19c642c8d97bfe1c1901beb4eabcea932bda0dcb4b99c91bc4bcc7bc50734c91ee1847687404dc3f7c884680eb2c790801326ebf36c5969fe48b671"
+        }
       ]
     },
     {
@@ -1471,6 +1813,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "35775873774baf8ee9064a54087b4a4b020e4172d59fc75912ecb06e808e258fe8b00d301522e549ac2bdca37ca97244c97eba15c38d4c7f0422556e2b4cb214"
         }
       ]
     },
@@ -1496,6 +1844,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "ca48b95e72ae7fbe74979d2e193965b7a90a20b6389d0d5e34841ab685c40726797568272aa6e7aa64eb044e41e0dee5acc24a436cad58c8933b6a34bfa130ff"
+        }
       ]
     },
     {
@@ -1519,6 +1873,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "b49b590411c0eaf8c801a17a12721aaba95a0413fd6aafd8de8b9526311fa076d105c1c100761c321ff0f0b0eb9363ef20c32af209a8a5ae43e15f1199baf11b"
         }
       ]
     },
@@ -1544,6 +1904,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "3dcc35253bd92d2247f378a2196b7a7d1713f818d99420d157060b6d4707ceffc246907baf43254ab19b23242f5523721a76edec6e005eec828834773cebd9d4"
+        }
       ]
     },
     {
@@ -1567,6 +1933,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "2802c3c84620a58f919686ff8ab894b6357a77912af98d7dd40e60e14a8b022f02c863fd375f857556e47354b129cdabe18018a86f09cced8a18bf808b30fbd1"
         }
       ]
     },
@@ -1592,6 +1964,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "b5d4009b2035f22e09ef0a6ba58abc0a5731672dd20b7d5031e072c8217246dec1547751110679969ce87b998511865459efa8abc1c1be4f498e989bc8457826"
+        }
       ]
     },
     {
@@ -1615,6 +1993,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "207e6d8235788c4fc68479115741e25583c3b6f7e31d09507c91ecd2eb2aeccdf45dc481bcea2da661f522091c5ec3bfe60110643e3707ffdf73b4914f94bec7"
         }
       ]
     },
@@ -1640,6 +2024,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "00b9e35a5558917b1520694eb2e587d7edee764605238f0b8e285f9e1f0564f176412f68f8fcc62c1b253b43e3cd5a072d9d8a09580033c3559173c907668d9d"
+        }
       ]
     },
     {
@@ -1663,6 +2053,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "544e52e9335afa3f26b24b25ec7c23c4c1c3336c8d2b75c292eb089695f99306ae05f5eec8b02d360f630a9fe21c7eb5b60238b1be91fc420c582a8421d8d3fe"
         }
       ]
     },
@@ -1688,6 +2084,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "ce0fdc85b5f2781b4c4352db0ff592a16d83a42dc8d26a663dd5beca74538ffc760c0598ac863ba9e6481e2768cf0576e26e226afaf5e653702302f14663b184"
+        }
       ]
     },
     {
@@ -1711,6 +2113,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "e04cc54d1222933b38ed11a67716de52f2d6b4679d0d43644dc9b3a1eca0e2c3ff76f09ec4ee3b01a40bed52b2fe0ba5f394cec70f8806003c512db1c1b4e834"
         }
       ]
     },
@@ -1736,6 +2144,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "99d8ed219d572c033c6e6fe1c775b08df1ede928207a4eea1f4e373bc2848c35cde34c62defc7fea9612553c0b8c48225d04dbbdaa2e58aca72c189467a48ae8"
+        }
       ]
     },
     {
@@ -1759,6 +2173,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "af35323d4fd2eebc147e53322dcd444c37818f4351b8728a01cbee928cf086c86bea0e9ce5df338787368108d8d9b6747577862d67353c5d7be0fdad56f2a17e"
         }
       ]
     },
@@ -1784,6 +2204,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "a566d424b7444d503c95034979c331a177c7eb1fa63b6510a3cad2999f90ab171bc80de17dea6b160213fff1d6da79470a159e2083304b616afa010046485392"
+        }
       ]
     },
     {
@@ -1807,6 +2233,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "506e8ebdd23969f0c814ff70e06d2636ae747523ac5c725a444f1aac04b9a3d0295a7204969f06670d43ba7f2f3fc3b21ce67f40950a509c318a20829d4c26f9"
         }
       ]
     },
@@ -1832,6 +2264,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "c11fd72b70f75dc2c8670a5bbd0c10e5f2bef1891db358a9ec0d93c5ed32c6771749dab52fdb24706edb95c79d90e5fe65c83118098b5f516b4466c00f0ce2d3"
+        }
       ]
     },
     {
@@ -1855,6 +2293,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "92991020cdb49f7a0b54128683aa07ad47211ccdf1383913ce33288fb696405ab940433e47a1385a4cd3e7eb688c363bca37b3f0a802051a23e1a12bf7d15dab"
         }
       ]
     },
@@ -1880,6 +2324,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "cf157f4ac03e538cad7bcd39d4fe040b27630ff4bea9e62d9da23202cf6d8070aa7e0ba66bf6804038e8f3903d67a10a8418ab1d12475c88095257df4f8c1d2e"
+        }
       ]
     },
     {
@@ -1903,6 +2353,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "0090dd60e767c910d5e5be80ae297308f3f07357a3907728c856abaa53ea4fbcd162385abdc4f7b92aea70cbec821d828283db2b7442c321da572c5870fd80ae"
         }
       ]
     },
@@ -1928,6 +2384,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "eb7ee59f78172973b085a943ce29d4818f372b335665129b62e6da1be7c656e73f7713bae114658ed0939dfe5e70cc84d5121db6aa6455cab421bb54d92f23d9"
+        }
       ]
     },
     {
@@ -1951,6 +2413,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "157ffd7eb72e6f9e1b78176e8078c309d8a4c53844aa39d1f7742decfbd04ce1f1ca2342025bccac785c964ddc0f955e01aabd7f199f469f829d6c3dac4301b8"
         }
       ]
     },
@@ -1976,6 +2444,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "ddb62cd6b383df7ba8f1aa897ca3f72563c089b830f199b6f8bf6f04a107276460faf89347ba39326bf999972278df854586803965f94890135fa9353d6cfbda"
+        }
       ]
     },
     {
@@ -1999,6 +2473,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "a7728fe4709ffdbbe305248ab9789de99aa28f1ef021f356f89fe668fb3e8b0477e5ab792426cb513d0bcc5d5c9e36c21d686acd04c83762697bca5179b20415"
         }
       ]
     },
@@ -2024,6 +2504,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "def6c0eef5d8c1f7b54988440fef9f3d44255926134c698599089a9f2fe075b896814fe2132433cb29b02fd4a4263145b824b8f74d814b37b0546b071e61ed5e"
+        }
       ]
     },
     {
@@ -2047,6 +2533,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "d38c43af14130d3085c0fe47ea1461b1171bf71c6fd91ce472cca01739a4488389cb73de4493fbb0d93755121b297728839eb53fda14d3fad51fabc344e02053"
         }
       ]
     },
@@ -2072,6 +2564,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "15731ef467f14f1a9de43ea316c43e0c9f01252e04fdf4f99aaa9d8e8bf2904076a056d330355d8353061717d05be141386a01fbe93cb3006b8304874f57145d"
+        }
       ]
     },
     {
@@ -2095,6 +2593,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "037b393d6899f580971727b5a36e3a2a8b1c316a9ff01b03f5e4622771deec2f4e05ac4a8407794c509d131ffb55b2adc714ecbbfff598c245ac4b79ef6704c9"
         }
       ]
     },
@@ -2120,6 +2624,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "1995b8eb8835487eda83763b8578dff11a14b80148aa494e02adcc465e0e69669b4c5258f4f37f1356249615cb87e390ddf33dc92da73a40a84be58b67a92fc5"
+        }
       ]
     },
     {
@@ -2143,6 +2653,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "7e64d159b34c9ac996abac4957c0f5f54fe0c3f6f0ac77cd5f1ac837e1df6609f3a931e9f633a628c86c4d48d73899d939d658f50dbccb8c9e6cacea0ca97195"
         }
       ]
     },
@@ -2168,6 +2684,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "49a2c1bb01a6dcc395891ab600193778ba31c1910ba47eb3865dc56c0a09ed59b58287cac7a125d486f9cf6dcd504845f40b0697bcbe7732dee42c36000ac64c"
+        }
       ]
     },
     {
@@ -2191,6 +2713,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "749c4f065cc2ecdba00763c32f0a3d43c2624d1dccddee3f5c0364ade29253117cbef5caaa6d587eae10e5d97c6ee765ba745595451a0d4805b7b780f03e8d2e"
         }
       ]
     },
@@ -2216,6 +2744,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "56a2a3cc12de8db48c4f82206e65600e3a6462b3565182676c21a8f3be2eecc30a216b082d15fe3a95ff81393c32a8e94f503f73a1d8d9d080efb64dd25910d9"
+        }
       ]
     },
     {
@@ -2239,6 +2773,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "9dd7c9fc9c7131dde7c37d6ec8aa18da76a2bc5fabdbd57e2dcd2cbd9c5ed49bef2119a2f2152caccbdd3b0812d68eae0479a2cfdd60790d3294f3f46a3d5550"
         }
       ]
     },
@@ -2264,6 +2804,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "0292af7e3b1247ab60d3ac6b2f8df80b45b274bafb25ec0107757eff7f51307b1a5d3386d339adfce0177a78393392c19b4a239b126ba68990559d5a3ef04be3"
+        }
       ]
     },
     {
@@ -2287,6 +2833,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "6fc02657791f41aa9602e69c6cfb8d6cbeaf6a19ce25f94e85ec4bccc30d2e06badbefe7874273bc9d1a3bfe5ae4c560505192ec7bb53fd3f4de8ddf2640c2cb"
         }
       ]
     },
@@ -2312,6 +2864,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "7b5538ea354ffb0ec8badf09b7cae2d58b0f3af169838ea4f8af13a426f43fece30a48e43e757b5b37c3273307cb52e703ec23e692d3d708cef74d602d778484"
+        }
       ]
     },
     {
@@ -2335,6 +2893,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "6c2ec496b7496899cf6c03fed44a2d62fa99b1bdde725e708ba05f8ba0494d470da30a7a72fb298348d7ce74532838e6fc4ec076014155e00f54c35c286b0730"
         }
       ]
     },
@@ -2360,6 +2924,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "446c305a7c10be455f6af295b76d8518bc3ec5849dcc04709b4aeee83853540dee994e6165cdbc57790ee2cb6062bcab4e52e9baf808f468a28e5b408cd6dca8"
+        }
       ]
     },
     {
@@ -2383,6 +2953,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "648c299debcebab4bc6e94f8d7ddaca80a3058cefa2432921d8ccc2edcb7059192b3082aea905a1f70e10925b9c5501920267229d3813e3c30c39c1f813ffa3c"
         }
       ]
     },
@@ -2408,6 +2984,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "ac132f23396903cbfa13e489668a3ef87018aac2eb920ecc49f2229cc3c5866928af0ed7f9d39754942cf904faf731a4cccc9f0e720c3765a2775f8d6cbdd3f8"
+        }
       ]
     },
     {
@@ -2431,6 +3013,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "f109902aa10048b7799f1d14d41d6890b1256d4baeb6d27f0276264576db6c60d687ab92db4f048c3e17aaafc8f702bbbb4bfa3b4f178535a7b795ed11b47a0e"
         }
       ]
     },
@@ -2456,6 +3044,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "006ad0e104a0b2c6b534699698b3ea379358d8a6a317932ac5eb4d10efa8d27dd9c1965e4e6b7b6c19efcc75ab9a4645c4682be077721607a5ce08b4ea8b4bb9"
+        }
       ]
     },
     {
@@ -2479,6 +3073,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "83b9c7e8fe9dc838a8268800006a6b1a90ad5489898693e4feba02cdd6f77c887ad7fb3f9cfb1f47aa27c8cc2408047f3a50b7c810b49444af52840402cb08af"
         }
       ]
     },
@@ -2504,6 +3104,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "dac246253697208691d70e22252368374867318ec6a5cfe7f03e2a482270f10a855977fb72e0209c41f1069c1e69570f7af0b69772a98d80b1dcdca941081a26"
+        }
       ]
     },
     {
@@ -2527,6 +3133,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "103de33fcb1a6b07854e37865fc1d03e3782d5863266cf7c8c6359c7a22206fc56ec91b9bf8f7691a980401de6db0a29d3b0af53f4509b370aafa6e0702e43fd"
         }
       ]
     },
@@ -2552,6 +3164,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "28837f9c3241411717c3430b561644f62407986ebca80548060f42aa65188e64088608a3f54e4c16faea9142f915bb72cb366e39e3add3375e45ee1463b72df8"
+        }
       ]
     },
     {
@@ -2575,6 +3193,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "9da825dd162b6cdbfa91091e248a6de8d259cbcb702c1ff6bedcfac8df59e2f44a1cde3f41924811baa88402d283029d9e4b2e63793901d769e6583cb15a1571"
         }
       ]
     },
@@ -2600,6 +3224,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "58cc26f4b851528f9651a44dfaf46e113a86f3d22066985548d91d16079beac4bf1383ab0c837bb78f0201ec121d773a0bc95e7c3f0a29faf9bd8eb56eb425a3"
+        }
       ]
     },
     {
@@ -2623,6 +3253,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "4349fd1d18b89ba26e188575785966bc907b644571bbddc8accca232c182d25acc24c5b3460c7a586aaec9f4206556f7d6f8468179df98f34d5e6c673a4441ae"
         }
       ]
     },
@@ -2648,6 +3284,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "7b79d17e07d4678acd18bdb7da05205f4e90372c9ecf4e0a76316b17e2d34683979ab3a014a0e0e0109db235bc1274faf5ea9d606991a49c223d560dac2696de"
+        }
       ]
     },
     {
@@ -2671,6 +3313,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "65fe47d8ac6ddb18d3bdb26f3f66562c4202c40ea3fa1026333225ca9cb8c5c060d6f2959f1f3d5b2d066d2fa47f9730095145cdd0858765d20853542d2e9cb3"
         }
       ]
     },
@@ -2696,6 +3344,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "b0f666a8705ee892224df379ab6a448bffd3c31980147c23fd712e6234eeb1eefc8bc2b16aa3134f3c4fa052aecd1a43a5327ed0d01ba5f7a79261f6ade3edbb"
+        }
       ]
     },
     {
@@ -2719,6 +3373,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "146807da1f3328d8a6f658e3edd6a79053dc20220af42a796e6f9cda041261e3e1a5a1b9f9eb2b2ce0e2848a2b9fe3dee85189cd6857428b4fbfbde34da95d5c"
         }
       ]
     },
@@ -2744,6 +3404,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "3624aea59e0e7ae1b0afaf251887b29bf92c219309a1d506392099fc54a74f172b7a46efaab81d53194938ca628da299563009ad6ac6b3fe89cbc38cbb28fda3"
+        }
       ]
     },
     {
@@ -2767,6 +3433,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "6882f9171ee66b055adf4d1a976067104e2236fa35a844f12eb3c8fe8d392fbcfa828edf0b0d49e844266cae05989d804bb920545fca1195ae7c17dd0a531c3e"
         }
       ]
     },
@@ -2792,6 +3464,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "ee237c88f303cce3073d462594112c41d59507a7cf0cc3eac2305a16b82be0982bffea248efcc0cbe50795860bfd5b343ac3ab324c12e8f243905949c28c549f"
+        }
       ]
     },
     {
@@ -2815,6 +3493,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "22e2fe125ae8bb666f0851ecd7cfc2233cb6373be8db99d9d7f0f6788665cfb73e4146b201c62888cd81b610a3b3e1011d5a6362372e2c302209681e217dd7d5"
         }
       ]
     },
@@ -2840,6 +3524,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "680e11c8f71dddb69d6dd001183b935c2313b4e9de5020181ff831a18453665209745d183d6b86aa202c22b84d9e7a9d5c6b30624e9d1ae8de9b8c3cd1424586"
+        }
       ]
     },
     {
@@ -2863,6 +3553,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "4bc2a866045937e6b9acdc2a4f195965e3e34ffe1c9e6d11395ef42de7511d9d29f2ef5f4480f484951942990a2f3ae8f0b7e60bcb31db76d8ead54dc6ff2940"
         }
       ]
     },
@@ -2888,6 +3584,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "1e45bff0bae4f23975f24cd01ef030f5a4c77b572ab32c79b039f19dcc7ae76f8221f85ac289043e478cdc1a080becff5efedad3232bd1fde9451c21187e39e6"
+        }
       ]
     },
     {
@@ -2911,6 +3613,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "74ac75d9e442548cea0b1146a65c8528930fbcb11682636d52ba53889211e6ef7bcc48511bcc92aed6e83c7657c7b75a2f1415ae5eb8ddc4f36da6f6b64423c6"
         }
       ]
     },
@@ -2936,6 +3644,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "6ee446d1fa41b511d24c238049eea10f6e7cb44b9b16844b6f864d03a3713151cdc3680e7301e8f70c9a6e5ccccce039cfdc40f4bd4a36393f36de8c4fd698a3"
+        }
       ]
     },
     {
@@ -2959,6 +3673,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "cc9da6418335f2b1053ae75e57819285318843b45bcc0ee8cdb53d23f5c1a66ee4aa0332c209b294cc171f16499a45686249daf5dda95575573dd6133fd7a3f1"
         }
       ]
     },
@@ -2984,6 +3704,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "ed71cdc47eea5fdc46e66230c6486e993a31fcc21135c3a00ebc56b0cb76a40af6dd61e9e8cad194dec50521690a9afea153b417be38894811f369c931f1b648"
+        }
       ]
     },
     {
@@ -3007,6 +3733,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "c5c901517c9322a4fdeedab6c7600c6fe835eb76f9245cac624d31e2ac4d1706df42498d6688911dbeac3f323dfd0577dd67aebd5601508883e0dccd232a9a45"
         }
       ]
     },
@@ -3032,6 +3764,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "f5f4a349aa2cfdf448548a7ec5226513a95fc21112ecb36d29a08121a987b23af69dad418800493e8d263a38f3f062435116ab9823c6a9a89583999f8dbf7c09"
+        }
       ]
     },
     {
@@ -3055,6 +3793,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "b1349f063a17069f3d26f20a21e7eac3b53608279bb1cef892263a6b0886a202ada1219b823604fc6ffe97db05dcc5853cd73d21ca0e0b83837ca1dfc459a9d2"
         }
       ]
     },
@@ -3080,6 +3824,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "65429187afe4505a0089302d4d83d9277870f70371c7e04804e8a39e51bd3e7ac9b027128ecd70cb20fabc9a5a62d827cc3aca6114aa7f738ee917daf77c6c46"
+        }
       ]
     },
     {
@@ -3103,6 +3853,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "fb707605a1bca90f04d7c93393dca249d01aef98bf8679cec2049e03154972d1903ef99e88bb6a28e605e871130b2463885ed77ecc9a9741db2e5c42424824af"
         }
       ]
     },
@@ -3128,6 +3884,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "91909d7af826cc38c600ea87ec69439905d8024b87a0aa4c949aea178d0730f85484ce59592152c42c03fe74a2e8091a8a398c7ec161a09446276ed4b1e0af44"
+        }
       ]
     },
     {
@@ -3151,6 +3913,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "135b9c72c671b7ff7a8c7fcec262cfb973000882ecefaa4a1768b75bceb52e9281098b462323d01ad58bb812e4343e28c752879ecef47bcdcf4b8b5ee749ef3d"
         }
       ]
     },
@@ -3176,6 +3944,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "e5b27e9dffd40a90231ccf22d3a7e5ede2f2542f62b8d0239bdab3922bb664684cd15b1c4af4ba5833df03091d901ba85c633d14949b2a5eb0ca53303fd2ad8a"
+        }
       ]
     },
     {
@@ -3199,6 +3973,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "477a5ba64708aafd8f9b7754c208dc943455996a53256d8370ccdc221117131d6887f08430e6cc9b728b99124e76f84cee8e2e4019f0afca7344adac25622a7e"
         }
       ]
     },
@@ -3224,6 +4004,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "e7924d2ae216fafab829ed418ce4e333661cb5022f093ec61731f099f64f1a8e709eb82489dd1842d9c095e152aae9999b86b3de7d814be7ab6f2e62a49760ae"
+        }
       ]
     },
     {
@@ -3247,6 +4033,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "d5c0cd77027625aa2199bdec8383a629a301c2e0b8f2c6278b91d4c360efb02f0b8c64cb2bd87e79bd57e91cae3877b8853d142c25baf22a26863528294aa53d"
         }
       ]
     },
@@ -3272,6 +4064,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "36a00307c5633c52ccd95d15bc751ec30c2cc3465605a21d828fa2787b4ade16ac2f3e2a78246361ca9f07a010ac182044aa69285f0be76fd5a9d56c3b8ec397"
+        }
       ]
     },
     {
@@ -3295,6 +4093,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "4f651b7db044177db089ea5722c3254d6f7e743602eb0321fedfef600e2db8e30aa96cff9f7bebd4d152c508b23fece4da65eca0c03f8bfeea57a2cabadd6dd4"
         }
       ]
     },
@@ -3320,6 +4124,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "8ce887c8066c9a7afc2eaa0f1a60a36006a2b96c2300f2e063c657d97ae61dac2df7dfeed72e9182b64c4dea0f7e951b57de8739a958833d6ace445bc39e0f9a"
+        }
       ]
     },
     {
@@ -3343,6 +4153,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "e056d17405fe6d2766a3801416e4b458d88fcfc36016dfabf138603569a5ae3423b7543b651f7ecd395c7b6f39f71e0a497af022c69e4ea0e82909ad3fca4b99"
         }
       ]
     },
@@ -3368,6 +4184,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "bf73179d901cbe7cb091350466898801cb657bb4575de79d391df5c3097b565ca85cee108bd6abbd27a73505a77b54dc4708422f51f02c8db56c4a9da63f3fac"
+        }
       ]
     },
     {
@@ -3391,6 +4213,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "e1f0a4efdc2c84c773329dab1f4eaa5ab244e22a25a8b842507f8e8ae22053ef91074fbde0d9432fcd5ab4eec65f9e6e50ab9ea34b711cdb6f13223a0fb59d33"
         }
       ]
     },
@@ -3416,6 +4244,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "20a5e9bc8ce39c2f574c051b54170c7c64b410f6885ed5babfecebf91469fa1a942c4a68d28c196b1eb0c91c0f3896d66f38d8b29430bac4ec7d5af489f878b9"
+        }
       ]
     },
     {
@@ -3439,6 +4273,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "93fbc6697e3f6256b75b3c8c0af4d039761e207bea38ab67a8176ecd31e9ce9419cc0b2428c859d8af849c189233dcc64a820578ca572b16b8758799210a9ec1"
         }
       ]
     },
@@ -3464,6 +4304,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "e2077b56958d40d07850a28214555ca75015bfe14c3a0b3d34ace31cabac73c8d332177978bd4da90a8ea44d0accc76cf34e3fc87960969deec6096e3aa00f2f"
+        }
       ]
     },
     {
@@ -3487,6 +4333,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "e4787b635c106ef639a281a03db0da2f98982c03f331352b8ccba5b241cb1fac27bff03ed6ae6b8046a2baa12307ea3119721566cd4517e47f28f37765241862"
         }
       ]
     },
@@ -3512,6 +4364,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "d0a23feb4ef1a31493a07ec68cdd457d26cba14d3e6ed4e2723b1049642587f859ca437c2a998c7fbb98c0f5b747e6a467a47fc35f199574870585e26143cede"
+        }
       ]
     },
     {
@@ -3535,6 +4393,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "edb55b8b486e8ffc2b2003b36fc5356acce0f64762dca37f0b2535f424c8eed028658119a0bf720835e96d737eb8fb2e5a73f4d9ccae8358257aaabe4d4f9808"
         }
       ]
     },
@@ -3560,6 +4424,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "0c37c03548a21b6c02d6a6b03faeaa953ba025e2f91f2ccca5fafc94b2be8cc422ac6ccda1dd01d7670507ff6af37f11bb6eec0707f0efcfeb76853b444473e8"
+        }
       ]
     },
     {
@@ -3583,6 +4453,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "9f8653dfbc06efc8b3d37c4f44a26b1d37596dedc889ccae704b5d46c579ca09707371b251f6c07e949e0f4149e3535b50d4ade706e1a9fa757d2f81827bc315"
         }
       ]
     },
@@ -3608,6 +4484,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "c1ae7aa36fc4949318aa30a31a45eb8bb8ade456de6d6e6eb0bc3f9cf98232ce43799edece24986614a63d19f4b71a9e5b82e702641053b160a8ba6c10528ce0"
+        }
       ]
     },
     {
@@ -3631,6 +4513,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "d410b40551614bfa74aadc3a7a7a7c7bef0e0f452b2b4a052f3b528cdce170a037583b89c7100f5f33ee3ed2a48c463d514a045a55fff1f80a7aed92f22f494c"
         }
       ]
     },
@@ -3656,6 +4544,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "3f0c2111a90754a4dd44d54ec3efc6ca1d3e33394297847aa8abe486ebcbb4f320808d56007b7db0ec19c502d21a951a0e7addc83b289a846036709f28d4975e"
+        }
       ]
     },
     {
@@ -3679,6 +4573,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "d5079dd3f1ebda6f98ab19ccd3d0a303677f8ba61935f17a476a1100e8f7e9e51d4baa8857f86e3c935212929bba97b016cf99b09971b238cf6dcd3f69f5ba2f"
         }
       ]
     },
@@ -3704,6 +4604,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "95985c96e984d46e95603f151dedf9c0568889ff824f2e522488b9fb7cb8a6c0e05aee303c3a01845f0dc543a29c473ba478224ec4fa31a05bf76aca8610fe5f"
+        }
       ]
     },
     {
@@ -3727,6 +4633,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "32362c2873b93bb982b26446c5670b5a1785a8df4327fd939a782f8ca5e285ee9e7d588fa9cdbbe3e171ff87d88ffaf4dfe112bc17535cad15ead037ae07b3d6"
         }
       ]
     },
@@ -3752,6 +4664,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "88f0237abaec7b6effca018bc70f84051f5a82ff58eae2de61524cbbe40d0a8a2e275ff5ae2d261ab716a5f0aa159bb3cf1dd68edc311b4f7c5fe9f83ae4643e"
+        }
       ]
     },
     {
@@ -3775,6 +4693,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "21259a73c76bbf86467f02a5e6c9691c6f4ec0f36dcb88ce58f448841a713a80fe86a2138b0ba2a4e4366cdb61033c00dc1e1f2233b83659fbe0dd12f5bcaaf0"
         }
       ]
     },
@@ -3800,6 +4724,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "06d11e4aca1a4239523c17a631022b635318d2e33abe74b58397e6b9f60eb67c4b19464cdb5efc3ca6e1b24ec57efe7c217f99b5cbe81b071c62c8743e096400"
+        }
       ]
     },
     {
@@ -3823,6 +4753,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "f601b1e864ed09033bdc18261d05df0e62ed7e38d35034b2a314c26e9e56b688b10217e0b038ab58871543f207a6f2395607798bf27917b07d70dfd69556c2ff"
         }
       ]
     },
@@ -3848,6 +4784,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "a7711cb227178e2b7b49ab245c7b35840f75431813c38e85bfa10528a192e434452c3f322a7a218c5de1c688eef786ff39c319a10ba4ce93e9044f6e2d52b381"
+        }
       ]
     },
     {
@@ -3871,6 +4813,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "2b9a5760e9bdc2a6354608e92f7613905dfdb678b55da8d42246b04cb528f446445541606b981240917c9cd4bb670250d36cbed5808d61c321f8721fd59a84fb"
         }
       ]
     },
@@ -3896,6 +4844,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "99f7306fa23343238a4ecf3809032b3b05b881071a4ce016274cf32429765923c3ad693f3b30da2265851f77635e16f6e20e1eb9d65f2d1a3302f3c6c3877d85"
+        }
       ]
     },
     {
@@ -3919,6 +4873,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "c478e10ebddc3412b40737542523d7667b50531fe6c0c4b9470e00ee53c9f745c600ee8848ffde3c336ea34be1a8e654f940f9268a1dc02000a1941ddc57802b"
         }
       ]
     },
@@ -3944,6 +4904,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "6be6ca11c0a3b6e5b9593760797173b304ab76a8b48e4e17944b59971e40f78c02a01a458df1536e8fd3adae52a4d0a5fd81593ef715d5d25cf930187a0e9139"
+        }
       ]
     },
     {
@@ -3967,6 +4933,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "313ff13f40abb9b15134b34abf12760587f2e776649befb96d7f5db6e3dba80790a5355ed0c4131616a8f3e0a9fff126269db8e31b7a0ebc3f1951060948f8d2"
         }
       ]
     },
@@ -3992,6 +4964,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "851174e1fa8920ff006db92ae4d28637405baf7271950faa859b9f5d5af40efba32b2f776426d764c1c32f810eb687526c25b13aa47c312d6d5c0e61c2a0970e"
+        }
       ]
     },
     {
@@ -4015,6 +4993,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "10a23f33fcaa3e7706514878e31cf43f14a275716bffeaf4a40ef4fa0218863bfe7adef2c4cfacdbd63e5460e4a2f4687d07a6d1fb3b52f7f8f9898077245db8"
         }
       ]
     },
@@ -4040,6 +5024,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "307a74dd4226795841ed766d8ddd04e27ebedf1af90eaffdc48ff9169b4693916b6c3477cda80f6b60d2e94f24b3fdc78db2961bd435336b9f3b3c55daa2d849"
+        }
       ]
     },
     {
@@ -4063,6 +5053,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "5b7071ea67644531ad9492123af543fe56ea8d394f3d40d33279576459d5c22f4d289ead88093a2d5765859326d7b5598acaa129c833a4ee56cfdd4f0ade5bd3"
         }
       ]
     },
@@ -4088,6 +5084,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "073e66ba9cb64956cf1d4441f7c540730f9a1e1e2f455e483cd8482d40ac3b3466b13992435ee322eaa8a407a7b56a1e864b7119df5efe16c85eaf7cd3fd5026"
+        }
       ]
     },
     {
@@ -4111,6 +5113,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "0c1c2d11637671a1d0f7f8a688d784039cacd49a11b517d8ddded5f7092ab5bc9c9c0993bd14666c72835786b411873aefcfdd89ad23aed7b8b6363054169950"
         }
       ]
     },
@@ -4136,6 +5144,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "418ab3a5fc0edff0967f75cff99fad910b1f68b2ff1275255d6564224e4550f738b017537a112a64e36ec91b763faecf5c093e35799305c73def3c3db75150af"
+        }
       ]
     },
     {
@@ -4159,6 +5173,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "a125f3696ca908c1e43c2dcdbc111a3c77f42ac0399af3eb38f810583b1b83c9fba2b676f743340660bf8e0459e2f709e834c0863aec49881db16fc5f8c14e04"
         }
       ]
     },
@@ -4184,6 +5204,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "d302717f11f5c203b71ab6ee3fe7534e4ee8a7ee8be354025db188344983fa7cbf1bf782a86cf1c82b21ef5e7d4be9a00c37286ab9c1c3a3c2d4f4b9fb050683"
+        }
       ]
     },
     {
@@ -4207,6 +5233,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "49be3ceda4ce0abf5dad054bf292313b356169f3a364df54539e2188df0f537b8089257b971d7260da5b3667b1d8f2ba752268353489514b304fae75cb0c3732"
         }
       ]
     },
@@ -4232,6 +5264,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "1c35971bc8ac327b40c91179bd9ef12ae12f3a14f8021951b7fddccd34a3bc65318d8081551418e3c5620c7c9f633f552280645b84cc19035aa71fa5dd153074"
+        }
       ]
     },
     {
@@ -4255,6 +5293,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "1e03260aa2094802aaa3af25d2b4b601a9c459f931699e703621056f98209b4f250ecf579762b10655f73d371a0f672104cd605c061fe3dd7f33646ff09c1aca"
         }
       ]
     },
@@ -4280,6 +5324,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "5ec3fe2a14227f86e35f591bb928b248914d01e84dc602dbea13d1189f50b14afc6a31e4b9719dac79855135145e10f0557d91e5b63824d644c1b52232157e30"
+        }
       ]
     },
     {
@@ -4303,6 +5353,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "e297ccd457f4c79d28d2d4306f9b9cc3f4733720f4fd824c13a215712b5a959b8c5b176ddec47786e4ad4edc73e0f526bd97d182ebc37a36acbd0da489f475d6"
         }
       ]
     },
@@ -4328,6 +5384,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "fc85ed6f0124e474cfc84c32297ea11a4617c4cf676e3eb807e8a55499c2fd1e81d291f91b85776f4a556cbec3063e2d921040a696d05257fa17a5e5f4b1eed6"
+        }
       ]
     },
     {
@@ -4351,6 +5413,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "76afaa7a543d6a41e970e97f8145514f15483a4009d70477400bdbe11b158d2f285681630c64dcebbf702589949a49d41791f030b3a06f93be6b72b17d66a93d"
         }
       ]
     },
@@ -4376,6 +5444,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "cb3df145a1b6d1cebf04ecef6280da1ad3e61ac72ced88af22d64412a7ba19bc0d7c7bb1bbd60d9af9c490ccca95d006638ffcd2945c41165212786aba4f57b9"
+        }
       ]
     },
     {
@@ -4399,6 +5473,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "81a36f012ed367cf7bfeb55a6749ccb40cb13728bfa5d6e36c0c14a4542937bd06aa755f3a25e979450c291066cd769243c0dd4d7e3fd26b3adabd8afa113a99"
         }
       ]
     },
@@ -4424,6 +5504,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "89c9401de36a366ebccc5b676747bed4bdb250876fccda1ab8a53858103756f1ffbcf162785eea7d197051953e0c0f4ff5b3d7212f74ba5c68528087db7b15db"
+        }
       ]
     },
     {
@@ -4447,6 +5533,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "b0f538b95edd625bed589c70c311c3d0fba285536213b4f201b439496c43081f66518bce82ba103b061040e28f27c0886c4fb51135653a82b5502da7537818be"
         }
       ]
     },
@@ -4472,6 +5564,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "694e4426e20dd960de982700a76bc505fa7f9b810085626750d492c348b1b3bfe45db77a3e0eb8126c0990d745841f1a5add6c1f60935eb2f1a3f880195de83d"
+        }
       ]
     },
     {
@@ -4495,6 +5593,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "64363e6cf9b9cd34c5f98a42ac053d9cad148080983d3d10b53d4d65616fe2cfbe4cd91c815693d20ebee11dae238323423cf2b07075cf1b962f9d21cda7978b"
         }
       ]
     },
@@ -4520,6 +5624,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "2db833764d21e23ba843d7c22975b86f2d1426a8fe9ce3ab23d309d6c4a3e2723c688d9ea35aa6bd01227b8543d6096c4b6e749f5e4bb16b18b42ba0892b52e4"
+        }
       ]
     },
     {
@@ -4543,6 +5653,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "c74567f2ca48fb0b89d4ee92ee09db69083c3f187834d1dbeca4883661162a23c4e1128ea65be28e7f8d92662699180febc99cef48f611b793151b2bb306907a"
         }
       ]
     },
@@ -4568,6 +5684,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "4e9a7ad0fe885090d3b8eabfe59f1c76c93326e8dfc2a7ce4e4af02308fb211212a679099d3e92c89e0f08f9c63281630bd75d85a979295218b40b7dee2c74e4"
+        }
       ]
     },
     {
@@ -4591,6 +5713,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "e85973b9b4cb646dc9d9afcd542025784863ceae68c601f268253dc985ef70bb2fa1568726afece715c8ebf5d73fab73ed1f7100eb479d23bfb57b45dd645394"
         }
       ]
     },
@@ -4616,6 +5744,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "f8452ca863cbb0cfa3ff37428598ec9d7e758385eb1c53885f07e70953c695093f9398226a470ab2ec4239b051bba0d29bda29c3f3bab2559b25d82140ce1b06"
+        }
       ]
     },
     {
@@ -4639,6 +5773,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "f0e7ecfc051087c31a11cae5ab9c4e5f4090f72a53179765efc9a394c35f38ad3c7f3a604c741140f07170f944b48c34c91a70b3e668ff7afee5645bcbbbb71a"
         }
       ]
     },
@@ -4664,6 +5804,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "7a464c79a688cd24134a9afb5f65f788933b953ce09f1f1a8401bda497d3ffbfb5e2694433c65843d720083bd24916d17852b4a07962dd6ad9742891b20013f5"
+        }
       ]
     },
     {
@@ -4687,6 +5833,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "ac98134279149c7d6c170f324fa552537cc3dec5a6bbab19848b1e63c557f8646edcfe85ec5bbe24d0e85df9251256cb2529dcdc55101d57b8714e618fe05c52"
         }
       ]
     },
@@ -4712,6 +5864,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "5baee22e5e09d845c41936df78709f7eb8c37e2b6f2c0360d14957df01545124f1f762974457a0307515812a84fb0be101b8b85aa8c683d733cac4d5d84a5b7b"
+        }
       ]
     },
     {
@@ -4735,6 +5893,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "17c719f8a7c69521a2d3d9494fbfcd77a28967dca0b6f602d3f51860b23d9e640a2cc9f276907dcaf6eff4ad6e4a412eec553dbd83e65702e0df6f2d5fea2ddd"
         }
       ]
     },
@@ -4760,6 +5924,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "36e00449439432b9485ce7c72b30fa6e93eeded62ddf1be335d44843e15e4f494d6f82bc591ef409a0f186e360b92d971be1a39323303b3b0de5992d2267e12c"
+        }
       ]
     },
     {
@@ -4783,6 +5953,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "9cadbc58ea3e4088c190376e4c8344e09905fd42492b27f6109c6f24a7db943a7283443ea643873532f4430cba34fe85844fc49f357bdc1c71a9c25a5d8f5a9f"
         }
       ]
     },
@@ -4808,6 +5984,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "a15973920dc4340842936cddbfb209c1dfd0503e33d91c51c2991c198f29b0255c09864dab8c189d55802c733e6ebb6e26378f5a2605fc2966b83afc0a1e7e92"
+        }
       ]
     },
     {
@@ -4831,6 +6013,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "35473068ac54c56ad92e90c6fb3ff165a0a04084e403f0efe15fd3e9bc3b54e37a9755f3fd59eb06aad88d9435d936a6287cc84d37ce1086148f8f32d8a5c898"
         }
       ]
     },
@@ -4856,6 +6044,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "0a2c9e3b1153fc96723799b4cfd3df5f0e1208127a4b2833d43a65d30aa39610c418604fd469ec51510bd29eb78681b57dc8f77c7ca75e2f4d60ee2758e2fea9"
+        }
       ]
     },
     {
@@ -4879,6 +6073,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "03f00634c14dddcf1b3a5bd5f51ade31daefee3b2617d5c87c378277cefe23c44d83ab3bf01849c4cbbaf4d10c1c14891712a275589311daee470124fd620aa8"
         }
       ]
     },
@@ -4904,6 +6104,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "b371a3a5d04548269e0d25ffbfbdcc23952c3ea1f59232aeb760170a0c50e4e1f5d253d53aee6ae6f2c01b4382a73fc462a2ac4d2c35587a4436a32fa78dd12a"
+        }
       ]
     },
     {
@@ -4927,6 +6133,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "ea5b305554b3b661e246d0fa23c870e2a3ff9c39b51096ca31185fdc70986aab9dedfac6cac3efec5609e67a1941d850b4ddb12678a67ccb6f42adb5a5d6f3c9"
         }
       ]
     },
@@ -4952,6 +6164,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "53baa0f9ba6cc1fdc2b39c4bcd1a9b5db425f399e0d267d257f2749e7037d4c08b82f11a028ec222199ecab989a4eafba3ece6d2b5cafa13674f997d44790291"
+        }
       ]
     },
     {
@@ -4975,6 +6193,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "582b5a6d2eadddcf129290c15256f59233acee5ebac6c19d2a920f66c838c11f81dfebbd500ba6da8752b05f6d9efc60f348786712d6332e294633ac148a90a7"
         }
       ]
     },
@@ -5000,6 +6224,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "801f91f97b9dd602c5b910ff42038880638113628240f68fc24cc10460bda06ebda474e4850788b9e8d5224dff7270f25f7f5abf6031a26422c8f4f5dd628740"
+        }
       ]
     },
     {
@@ -5023,6 +6253,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "cf376f5df4babfcf6beafece7050877c79721bfc2faf2d402f1668e0baa0528cbb5bdc6104331aa8eb8c885dea115e3956ab0deab76571e847adf0ed9423dcf3"
         }
       ]
     },
@@ -5048,6 +6284,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "a9300096b12c97cb383a211063af700ef70c21d40deb0773e688d088ecba61132eca7c5e9ce3743b9a02a4923a96c85ceac720018f2abc9d8e9ffa7e09763418"
+        }
       ]
     },
     {
@@ -5071,6 +6313,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "95d84cc73dabf1f97fe909179c10f7091f7fc60ebde284fa0d9436b3a73f448dbc3a3b523a9c673eb50218e049e3a442531716771de9ea4c3fc670c78cabda44"
         }
       ]
     },
@@ -5096,6 +6344,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "15d5bdaff8d066149ea21b35677b08d72c4540d16f31c9e67ee8f85813144f13ab0322cc693704d5a00c0624e56cc35a5ef04242e562d11ee177cb9d0d23fbba"
+        }
       ]
     },
     {
@@ -5112,6 +6366,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "93e62c6e1a40f5ef8415f2a34c21f7556e9aa0a97235823a3587537c32f8088bc59efb2e3bce2db689e6644eeb73ebf6dd22d31fc5d7fb9c3f024f6fd31198e2"
         }
       ]
     },
@@ -5137,6 +6397,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "ffee55153721243a158f76e1a2a8ba51eca6703d340c0c1bd672706a6ccfbc712ccc9e05a45e9234d6d46ce4bcc88e7aa87cdd57c78ad2a11f3928a87644ddc6"
+        }
       ]
     },
     {
@@ -5160,6 +6426,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "56966b52a53903af5e4325b6739080d63b4b79c0ac37653f6c3e958a5ac50d6ab9fb95081153bb9dacd2dd311c1dfd73b8f60efeca86bd4bd6eb683ce915d9b8"
         }
       ]
     },
@@ -5185,6 +6457,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "e7ee47a979ec64f13ae4825948c919b544404597a57a5da85d410ef2b1fcdd54bf8711f9befd6e1eab8f839c19b3cc8c01f76ff7bd4853e91c3d47338bb35505"
+        }
       ]
     },
     {
@@ -5208,6 +6486,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "b2e0e68cb55083bf2730ad94678e788401be3805be1d03d9ea7fbe4cd0d45fe2f4fae5252f2c27a3124a0e8bb9d599becd30a3ac297436ae89f42e613fdbcafd"
         }
       ]
     },
@@ -5233,6 +6517,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "f5985728cfebc37e74375a2fb961db1b19c687f48d278727c4788cd2bc44e15378d70b20f0ff335a7f61bff6ee2b4d113f85af94ecabfd10438a9b72c556e465"
+        }
       ]
     },
     {
@@ -5256,6 +6546,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "96542c30b4940d43d3e388ddad4fcedfbaa59e27e2b433fe670ae699972848ac8b2afb59c69c95d27dbf6c3fcde2d040019fe024475953b28cadaa0ad7e5d802"
         }
       ]
     },
@@ -5281,6 +6577,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "3bd825df30a5e61e5b970d4a194cd02a1039a145d297caf0508339a344b79c25cc9624afcb90f3c7bfc325c23e4b08080aff889de499c21061d684b210703bd4"
+        }
       ]
     },
     {
@@ -5304,6 +6606,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "1eb82cc7ea2baa8ca09e68456ca68713a736f7a27e1d30105e8c4417a80dba944e9a6189468cb37c6ddc700bdea8206bc2bff6cb143905577f1939796a03b04a"
         }
       ]
     },
@@ -5329,6 +6637,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "b3855239feb2374aef6d1646c6cf0e9b90968fab1e9de3302b7a036f89560c7d143e159cc70396c39faa936e1bc6af3bb335f5c9daf0ca520ea76b86d688d4a4"
+        }
       ]
     },
     {
@@ -5352,6 +6666,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "2b9cd08c3965c5691fed9e7125d574fc1d164cdab1eafc46ef4cc9138374901b382e8be6118589cd01b10bd6d2f5100abb76e0338d25adde73a0b275d8c43904"
         }
       ]
     },
@@ -5377,6 +6697,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "758aa035265b0f091a27671e45df688c21a306afa63a6f4b9ad5e7027106c8784dff947b8835b64d1c3787ea3f8c2171bacdcfd8b7d62088b0a3002300d9bb20"
+        }
       ]
     },
     {
@@ -5400,6 +6726,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "7b474ea639b90ec7a89a75f1d8ce65a5d679ce81ea175f9ba9d3095288686155506bb70176793b7dd99e23a6f23563ff922304ef611e4e24b2a530959e92e20e"
         }
       ]
     },
@@ -5425,6 +6757,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "5d0050dc8f16d4281ed127a1fba8238f4dcb6e64455aea2cce02bda280a9c1822b861a0ef34a5fab8714914e439249f07ce7c5b5e470959e7a3d838663215676"
+        }
       ]
     },
     {
@@ -5448,6 +6786,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "352de57af76c44850e9a227c1595823fb2c6dd0a49cabb3f4c4d19a5fd72bd9bbc700249e90316f761f573b916a5d207a3c46f98bc4dfe8d895d3287a7be2550"
         }
       ]
     },
@@ -5473,6 +6817,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "3dd85d5b2f3d4a26688012dac38db375eaad449fffcc57763e041abdc2020d48094f9a16d7440244a6c9e9b838af4fd463633a056779b64c6e18546f0a481f1d"
+        }
       ]
     },
     {
@@ -5496,6 +6846,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "ae9dd2a34eca71d9a629b1af81a37141226bedb1954959394bd12ad45fa9a5b468ef4f9879a0f1930e4377c34f37e183e9b8e7626d95b8fb825e6a6e62f9825d"
         }
       ]
     },
@@ -5521,6 +6877,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "c7ff82cf862b8a643141c7097f998a11b21ad4dcde091348e44725fde92695869a9a974d2cf6a557221c09934d1f732f9aa06e815e53318657bf4963b255256b"
+        }
       ]
     },
     {
@@ -5544,6 +6906,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "619a372bcd920fb462ca2d04d4440fa232f3ee4a5ea6749023d2323db1c78355d75debdbe5d248eeda72376003c467106c71bbbdcc911e4d1c6f0a9c42b894b6"
         }
       ]
     },
@@ -5569,6 +6937,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "bc5282d8812d427561a53efc875629f30cf0adff0233e33328c1c62597c1b738593727111675ec1e4e84e53c4892432c80d4bb99d5f700607bc7640cd9d8b894"
+        }
       ]
     },
     {
@@ -5592,6 +6966,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "54c6ccc5b0de7a1031a4eb5625795c512e44f225e1e9098df819115f5180452df045a5c4120cc2701d7481341accee36b69348c9af31232371f1f965d4e14fae"
         }
       ]
     },
@@ -5617,6 +6997,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "c74453a907a5ea0e5263b2e0e99ade326b0ece7707154ee786745690a816b8c4eee4d3740d1e68aee72432a46f69c00df5de70e804674415e5f718430a07cc78"
+        }
       ]
     },
     {
@@ -5640,6 +7026,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "a6045ce21278fec363582492f409a74b8d31ddb34c0d39271e02f951a3014ccc899d4f741205a1d51cfe302f5e16ee01b8dfd4c198ca42e63fd6fdeb33b1cc7e"
         }
       ]
     },
@@ -5665,6 +7057,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "ecf185966b70b040036f4598caf08c6b5b7eca47ba75a206e168ab69fbabe6471ff8c8549cf9acd54791d02290753643f35c844b03076ed9fe4d1f9d32f89a91"
+        }
       ]
     },
     {
@@ -5689,6 +7087,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "1392c35fb5aba7ce4a8a5e5b859bf8ea3f2339e6e82aae4932660cde05467461fcc45a4f59750cb0dae53830ab928c4c11e362fd7648c2e46f6385cdc18309a7"
+        }
       ]
     },
     {
@@ -5710,6 +7114,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "f0bcc2e7e6ef238e418e97d753c5797dd53699f78a8907b50f5808327ed752517739352ba5d2693cf1f810c0271740ec1c775266a09d4acb39a829892ae88edf"
         }
       ]
     },
@@ -5735,6 +7145,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "9a39ffd1b8bfa145118dce5797b21a5a2fce24926e9aea0915025f0c3c8ee3afa1056b1f69533ae53047ab67a864187397d11c8713a28e991b442f12541414d3"
+        }
       ]
     },
     {
@@ -5758,6 +7174,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "5428c235f80cb1bcb7b53768d369db8ed33f7b0adaea33c79a94e17a7913621f291bdb9c67fd4ff12a38bb814605e93f063a4e56c0c23282c0fe2b8128815744"
         }
       ]
     },
@@ -5783,6 +7205,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "58f4bf1ef1d04d89c78ac2e8f4c72a0473899361641cefed969be5772ae77a6e1a790a7885a8b7832b61b3083aa74d684a84e5e7cadca621408c5d9baf6024d8"
+        }
       ]
     },
     {
@@ -5806,6 +7234,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "eb1e9d2bacc97694f3178b1078d631c2dbc1cdfe848381ad95eb12f781cebd3b9d51ec8ad965c06887e60e0b32b2562b441785225b22e78018b05194ba19afad"
         }
       ]
     },
@@ -5831,6 +7265,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "51c8dc24e5a49eb36417a3cb5fcdea70733a28781528d915eb663c6b9b980d5bfdc9d19057000730aa877498ded554d6a658c6d1662908386b09d00e607e135a"
+        }
       ]
     },
     {
@@ -5854,6 +7294,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "0ef132e795770c1eee927468fb888e193e5f3f5b2547cc10a2155d9278a064f32932cb5a289416870898040089137525da94e70138a18416274616501c606247"
         }
       ]
     },
@@ -5879,6 +7325,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "78ba175bf0c7ca5eb6cf1638482688827461b8cafaae2e23b84600452f04eac084ab32a93a2139db551ca1f771f8a9c3665e719af19869a2829391443b1242a1"
+        }
       ]
     },
     {
@@ -5902,6 +7354,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "a646357e3d5c2876f6b1e583cb4075e87796c9cce5240f7f596deeddce33fcd8960ec3b70ce5390fb9e14cb13d085d325effd064563bb042668f6e1d2be46bab"
         }
       ]
     },
@@ -5927,6 +7385,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "75bd04dd42637058690e1005e2d2e8d37a258b7a7097775b9f35ce5089512aba7e95d93f554c73a5661910db30d92662b818c7024ec37c1d1553b34a7696fab3"
+        }
       ]
     },
     {
@@ -5950,6 +7414,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "a39b123ca12483f0c840d987e37574fee7ab2eba7355e764521f2d18dbda797a5fa6ec2329e9e54a8c7fd8efc14e5654b447be246eece58844cfad3c3e500744"
         }
       ]
     },
@@ -5975,6 +7445,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "a0916ef781d06fe29576e49440bef09e99aa9df98bb0e03f9c087a6fa107d30084a0ad3f98f79753a737c0a0d5f373243ae1cf447b525ca294f7d2016b34bfdb"
+        }
       ]
     },
     {
@@ -5998,6 +7474,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "4e444aafdb144f1107f0c75fb8248fed58b3272cd134c8e3d89d9da3626bdcaca6e7df0955d124b2eccf4029e514f5b8932f50fa203e99af411a6d3a5d0072f2"
         }
       ]
     },
@@ -6023,6 +7505,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "7da607c346a705b73f916177cc54c49f14853801945fd1856ce06d86f0dd2ec22512858e14eb52d3380289063022c90bf6219764bde40170fc3a86781a63004c"
+        }
       ]
     },
     {
@@ -6046,6 +7534,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "9c0618c1f637aa7cd7df422403a01066355bb4ae9db86a27b5c426d56486d4c0fde182ea2b4e75e46340a57928c4a39632eb15b2c00758b87d49e6a879f6051b"
         }
       ]
     },
@@ -6071,6 +7565,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "08b8c208b43a52e3315a76c8ca5922b1b463df5ab11cf02eaef7a76bfd22c1255b4361b5558e7f1e357421169b3846c31e5cd9951742ac3e0d841d09b54e343e"
+        }
       ]
     },
     {
@@ -6094,6 +7594,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "c7b6dcefac746e6e29adfd552e0efdba10332b0f0355ba0295237957126e43e2ca0ce5445bd09d1fe558ed23febd7ef109842acf3810a45ab3d79cde2ef02d65"
         }
       ]
     },
@@ -6119,6 +7625,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "a63cb66d8852b2e7f05a52b03dcfa5ddc37bfb0b8994aeaecf461d2443a54036e5ea3a3f6253e2e266fc6a0524542f0117b57c36ecdec8f36a464b00de1ced29"
+        }
       ]
     },
     {
@@ -6142,6 +7654,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "a4c653bc8913d5df93146bc33aaa1d39c971d105a49208ba4dda1af200bc7df18002acfda733d36560326dbb071e8103ff3b4cb64bff5686136324a1527f3584"
         }
       ]
     },
@@ -6167,6 +7685,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "e99c73569cc35c36b76c959a1e29556b203e047ff5ce6c42268560be6a899e277f80fa0a1f152b4bf682fd3e8b190b4d1d3f971c6f5f5cf241e1df88ad4df413"
+        }
       ]
     },
     {
@@ -6190,6 +7714,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "04d19b58b7ddd1e50f69b8645d4566d23f2ebaf444c93879a2f45afddca8c3f06a01b649c82fb97d4f88cd03b39802b362a6110084a8461750af778867f3d7aa"
         }
       ]
     },
@@ -6215,6 +7745,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "41a2b187478d222da613da76bc47737da80e28709c8f5a49e7a1041c640e571a7cafdfe2b332d4515eeff3dc7d3b5a7f4fe3654cce56ee35baf9ccf816ad5856"
+        }
       ]
     },
     {
@@ -6238,6 +7774,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "4db5f79a3f27d2874204556563c03192a707012c372fad2322e17c8c53fbf1acf70b6621986bea6c70690234d11f6ff1a98ba7ac9f60d634b28c28e9a16cc800"
         }
       ]
     },
@@ -6263,6 +7805,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "2b88d5ca39c1760bdcf3a63a06468b64437ddf74b060eb8116476606ef597e47006dd55ba484e70e68ef67f6908d15d0aefe443e44e70f5b37f468a2a9b9e00b"
+        }
       ]
     },
     {
@@ -6286,6 +7834,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "2d87e95249aac25d21f40d872f4f4c9ace36ed0d51656b8e1ecba47d570a46af6af79890c5dc348b1d4942ba9b70347d3c7d500f07f9428f0e65be6592c67c5e"
         }
       ]
     },
@@ -6311,6 +7865,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "fb43539d6efb7c537f0e3422ea4fd2abf62f9384a06a3c3bbab5bc57e6ac8d79d1803b3d8321a475bec4ce07e10388285ec44864a136f1fcc85c11c4ce1ba25b"
+        }
       ]
     },
     {
@@ -6335,6 +7895,12 @@
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
         }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "2ca614d620172575200179fd5118e2bbe3168725171ecbdfa7b99cb989bd75250a2b4fc28edad4c050310fcdbf98259bb4bb068c521a774c08b28778ceb4c011"
+        }
       ]
     },
     {
@@ -6358,6 +7924,12 @@
         {
           "name": "aquasecurity:trivy:PkgType",
           "value": "npm"
+        }
+      ],
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "83352dfeab7cd675ec14628815c0b76277c4031e4d92e9c27e70e5bee0524854b4d9b717bb82e679ad001485306cb5b158fc7777da7c4b94286ae8ca70d43171"
         }
       ]
     }
